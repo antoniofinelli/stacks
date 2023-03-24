@@ -1,0 +1,21 @@
+/*
+/*Make the login look better*/
+.loginBtn{
+   /*-fx-background-color: #ed1f79; Color the background*/
+   /*-fx-text-fill:white; Color the color*/
+   /*-fx-border: none; Remove the border*/
+   /*-fx-padding:10px; Pad the button */
+   -fx-font: normal 16px 'sans-serif'; /*Make the text look nicer*/
+}
+
+/*Make the background a consistent color*/
+.backgroundColor{
+    /*-fx-background-color: #141414;*/
+}
+
+/*Make the login lables more visible*/
+.loginLabel{
+    /*-fx-text-fill:white;*/
+    -fx-font: normal 16px 'sans-serif'; /*Make the text look nicer*/
+}
+
